@@ -1,0 +1,10 @@
+[project]
+name = "orion"
+version = "0.1.0"
+description = "Mi proyecto Orion"
+authors = ["Wendy <tuemail@example.com>"]
+dependencies = [
+    "jsonschema>=4.23.0",
+]
+
+[tool.uv]
